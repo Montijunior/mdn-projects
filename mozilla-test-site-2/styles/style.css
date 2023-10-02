@@ -1,0 +1,25 @@
+.form {
+    display: block;
+    align-items: center;
+    width: 600px;
+    
+}
+input[text] {
+    width: 90px;
+    height: 80px;
+    margin-bottom: 20px;
+}
+h1 {
+    color: red;
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p {
+    color: green;
+    font-weight: bolder;
+    font-size: larger;
+    font-family: monospace;
+}
+body {
+    align-items: center;
+}
